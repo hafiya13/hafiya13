@@ -34,11 +34,6 @@
 
 
 
-### 🌱  Currently
-Learning **Power BI DAX** and polishing my first robotics prototype 🤖
-
-
-
 ### 🎉  Fun Fact
 I can debug Python code faster with a cup of Kerala chai in hand ☕
 
