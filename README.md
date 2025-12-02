@@ -33,15 +33,3 @@
 - 🤝 Always open to collaboration and learning opportunities
 
 
-
-### 🎉  Fun Fact
-I can debug Python code faster with a cup of Kerala chai in hand ☕
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafiya13&show_icons=true&locale=en&layout=compact" alt="hafiya13" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiya13&show_icons=true&locale=en" alt="hafiya13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafiya13&" alt="hafiya13" /></p>
