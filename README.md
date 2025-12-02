@@ -42,11 +42,11 @@
 
 
 ### 📝  About Me
-- 🎓 Diploma in **AI with Robotics**  
-- 💼 **Odoo Developer** building custom ERP modules  
-- 🐍 Passionate about Python, data science, and automation  
-- 🔭 Currently exploring **cloud deployment** & **robotics projects**  
-- 🤝 Always open to collaboration and learning opportunities
+-  Diploma in **AI with Robotics**  
+-  **Odoo Developer** building custom ERP modules  
+-  Passionate about Python, data science, and automation  
+-  Currently exploring **cloud deployment** & **robotics projects**  
+-  Always open to collaboration and learning opportunities
 
 
 
