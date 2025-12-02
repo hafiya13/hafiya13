@@ -2,12 +2,6 @@
 
 ### Artificial Intelligence | Machine Learning | Deep Learning | Data Scientist | Exploring Gen AI | Odoo Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fathima-hafiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathima-hafiya" height="30" width="40" /></a>
-<a href="https://instagram.com/hafeyea_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafeyea_" height="30" width="40" /></a>
-</p>
-
 
 ### 🧠 AI/ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,12 +41,20 @@
 
 
 
-
 ### 📝  About Me
 - 🎓 Diploma in **AI with Robotics**  
 - 💼 **Odoo Developer** building custom ERP modules  
 - 🐍 Passionate about Python, data science, and automation  
 - 🔭 Currently exploring **cloud deployment** & **robotics projects**  
 - 🤝 Always open to collaboration and learning opportunities
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fathima-hafiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathima-hafiya" height="30" width="40" /></a>
+<a href="https://instagram.com/hafeyea_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafeyea_" height="30" width="40" /></a>
+</p>
+
 
 
