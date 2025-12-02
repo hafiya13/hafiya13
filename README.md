@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FATHIMATH HAFIYYA KK</h1>
+<h1 align="center">FATHIMATH HAFIYYA KK</h1>
 
 ### Artificial Intelligence | Machine Learning | Deep Learning | Data Scientist | Exploring Gen AI | Odoo Developer
 
@@ -52,7 +52,7 @@
 
 ### 📝  About Me
 - 🎓 Diploma in **AI with Robotics**  
-- 💼 **Odoo Developer Trainee** building custom ERP modules  
+- 💼 **Odoo Developer** building custom ERP modules  
 - 🐍 Passionate about Python, data science, and automation  
 - 🔭 Currently exploring **cloud deployment** & **robotics projects**  
 - 🤝 Always open to collaboration and learning opportunities
