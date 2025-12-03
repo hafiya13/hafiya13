@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=10D9C3&center=true&vCenter=true&width=600&lines=Hi+I'm+Fathimath+Hafiyya;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://avatars.githubusercontent.com/hafiya13" width="150" style="border-radius:50%; box-shadow: 0px 0px 15px #10d9c3;">
 </p>
 
+<h2 align="center">FATHIMATH HAFIYYA</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafiya13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
+  <a href="https://github.com/hafiya13">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/hafeyea_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
 
 
 
