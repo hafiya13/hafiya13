@@ -14,6 +14,9 @@
 ![SciPy](https://img.shields.io/badge/SciPy-8C5523?style=for-the-badge&logo=scipy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-3D3D3D?style=for-the-badge&logo=gradio&logoColor=white)
+
 
 ### 🛠️ Odoo & Web Development
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
