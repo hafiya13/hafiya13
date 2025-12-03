@@ -53,12 +53,11 @@
 
 
 ### 📝  About Me
--  Diploma in **AI with Robotics**  
--  **Odoo Developer** building custom ERP modules  
--  Passionate about Python, data science, and automation  
--  Currently exploring **cloud deployment** & **robotics projects**  
--  Always open to collaboration and learning opportunities
+a passionate AI & Robotics graduate and an Odoo Developer focused on building scalable and efficient ERP solutions. I enjoy combining automation, Python, and intelligent systems to solve real-world problems.
 
+With a strong foundation in Python, data analytics, machine learning, and robotics, I love working on projects that enhance productivity and deliver meaningful insights. I'm also expanding my skills into cloud deployment and practical robotics applications.
+
+I’m always eager to collaborate, learn new technologies, and contribute to impactful projects that push innovation forward.
 
 
 <h3 align="left">Connect with me:</h3>
