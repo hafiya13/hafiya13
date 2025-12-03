@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://cardivo.vercel.app/api?name=FATHIMATH%20HAFIYYA&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/hafiya13&backgroundColor=%23e4f2f6&instagram=hafeyea_&github=hafiya13" alt="Hafiyya's Card" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=10D9C3&center=true&vCenter=true&width=600&lines=Hi+I'm+Fathimath+Hafiyya;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hafiya13&label=Visitors%20Count&color=10d9c3&style=plastic" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafiya13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
 </p>
+
 
 
 ### Artificial Intelligence | Machine Learning | Deep Learning | Data Scientist | Exploring Gen AI | Odoo Developer
