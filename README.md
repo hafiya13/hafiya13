@@ -51,13 +51,9 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 
+###  Me
 
-### 📝  About Me
-a passionate AI & Robotics graduate and an Odoo Developer focused on building scalable and efficient ERP solutions. I enjoy combining automation, Python, and intelligent systems to solve real-world problems.
-
-With a strong foundation in Python, data analytics, machine learning, and robotics, I love working on projects that enhance productivity and deliver meaningful insights. I'm also expanding my skills into cloud deployment and practical robotics applications.
-
-I’m always eager to collaborate, learn new technologies, and contribute to impactful projects that push innovation forward.
+Odoo Developer with a background in AI & Robotics, focused on Python, automation, and real-world tech solutions.
 
 
 <h3 align="left">Connect with me:</h3>
