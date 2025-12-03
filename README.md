@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=hafiya13&label=Visitors%20Count&color=10d9c3&style=plastic" alt="Profile Views" />
 </p>
 
-<h1 align="center">FATHIMATH HAFIYYA KK</h1>
 
 ### Artificial Intelligence | Machine Learning | Deep Learning | Data Scientist | Exploring Gen AI | Odoo Developer
 
