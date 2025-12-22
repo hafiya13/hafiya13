@@ -41,6 +41,8 @@
 ### 🔌 Embedded & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+### 🎮 Game Dev & Engines
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 
 <h3 align="left">Connect with me:</h3>
