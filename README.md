@@ -2,7 +2,7 @@
   <img src="https://cardivo.vercel.app/api?name=FATHIMATH%20HAFIYYA&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/hafiya13&backgroundColor=%23e4f2f6&instagram=hafeyea_&github=hafiya13" alt="Hafiyya's Card" />
 </p>
 
-### Artificial Intelligence | Machine Learning | Deep Learning | Data Scientist | Exploring Gen AI | Odoo Developer
+### Artificial Intelligence | Machine Learning | Data Scientist | Exploring Gen AI | Odoo Developer
 
 
 ### 🧠 AI/ML & Data Science
